@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "crgc",
+    "crgc_derive"
+]
